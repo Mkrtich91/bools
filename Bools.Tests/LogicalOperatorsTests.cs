@@ -1,7 +1,7 @@
 ﻿namespace Bools.Tests
 {
     [TestFixture]
-    public class LogicalOperatorsTests
+    public static class LogicalOperatorsTests
     {
         [TestCase(false, false, ExpectedResult = false)]
         [TestCase(true, false, ExpectedResult = false)]

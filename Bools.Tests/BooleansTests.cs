@@ -3,7 +3,7 @@
 namespace Bools.Tests
 {
     [TestFixture]
-    public class BooleansTests
+    public static class BooleansTests
     {
         [Test]
         public static void ReturnTrue()
